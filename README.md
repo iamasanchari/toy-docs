@@ -10,14 +10,10 @@ Install the olamma  https://ollama.com/download  and setup the LAMMA 3 (Configur
 
 ```bash
 pip3 install langchain_community
-
 pip3 install langchain_ollama      
-
 pip3 install pypdf
-
 pip3 install chromadb
 ```
-
 
 ## To seed the data
 
